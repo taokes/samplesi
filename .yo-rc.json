@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "fr.rif.samplesi",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "6.4.1",
+    "applicationType": "monolith",
+    "baseName": "SampleSi",
+    "packageName": "fr.rif.samplesi",
+    "packageFolder": "fr/rif/samplesi",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NDBjNDRmMDQ5ODVmZWRmYjI1MjkwYjViMzIwMzcxY2FhYTJhODAzMDU5OWZhMTBiNTc1MTM1MzE2YzlmZjBhMTVmNGUwMjZjMGE4OTMzYTE1NmJkMmRmNTI3ZjFiZThhMGVjYmIyYjU5OTIzZGUyOTMwYTY5ZmUyZDFlYTU5OTc=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "pulse",
+    "clientThemeVariant": "primary",
+    "testFrameworks": ["gatling", "protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": ["fr", "ar-ly", "en", "it", "ja"],
+    "blueprints": []
+  }
+}
