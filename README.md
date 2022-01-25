@@ -1,3 +1,8 @@
+# Jhipster by RIF , Saint Gabriel et louise Michel
+
+Cette application est développé par les stagiaires de Saint Gabriel et louise Michel avec Jhipster.
+Les stagiaires sont reçu par RIF : Rassemblement des ingénieurs francophones .
+
 # SampleSi
 
 This application was generated using JHipster 6.4.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v6.4.1](https://www.jhipster.tech/documentation-archive/v6.4.1).
